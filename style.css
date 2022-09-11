@@ -1,6 +1,6 @@
 body
 {
-    background: #cfcece;
+    background: linear-gradient(white, red,yellow);
 }
 h1{
     font-family: cursive;
